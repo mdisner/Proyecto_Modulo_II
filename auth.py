@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/python
 
 import netifaces
 from prettytable import PrettyTable
